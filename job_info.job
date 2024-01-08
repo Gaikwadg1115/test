@@ -1,1 +1,12 @@
-chennai
+Plugin=Python
+    Name=Transfer
+    Comment=None
+    Allowlist=chntransfer1
+    Pool=pip_pool
+    Group=pip
+    Priority=50
+    TaskTimeoutMinutes=0
+    ConcurrentTasks=1
+    Frames=1
+    UserName=akashyande
+    MachineName=chnwspi016.bfs.com
